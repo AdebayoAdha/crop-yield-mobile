@@ -21,6 +21,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#16a34a"
+      },
+      "package": "adebayo.adha_mobile"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "933d9aff-aee5-4b60-96b2-4bef2c40e178"
       }
     }
   }
